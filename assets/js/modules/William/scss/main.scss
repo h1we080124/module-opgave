@@ -1,0 +1,12 @@
+@use '../modules/cardlistView/displayCardList' as displayCardList;
+@use "./globalVariables" as G;
+@use "../modules/singleCardView/singleCardView" as singleCardView;
+#william{
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    background-color: G.$gengar-purple-dark;
+    width: 100%;
+    padding: 1rem 0rem 5rem 0rem;
+}
