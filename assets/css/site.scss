@@ -1,0 +1,6 @@
+@use "../js/modules/Andreas/_andreas.scss";
+@use "./colors.scss" as Colors;
+
+body {
+  background-color: Colors.$main-color;
+}

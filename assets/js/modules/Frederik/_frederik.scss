@@ -1,0 +1,20 @@
+#frederik {
+    background-color: rgb(47, 47, 47);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+    #search-button {
+        cursor: pointer;
+    }
+    #title {
+        padding-bottom: 2rem;
+        border-bottom: 5px black solid;
+    }
+}

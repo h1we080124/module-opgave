@@ -6,7 +6,7 @@ import setupWilliam from './modules/William/William.js';
 import setupSimon from './modules/Simon/Simon.js';
 import setupEmil from './modules/Emil/Emil.js';
 import setupLaila from './modules/Laila/Laila.js';
-import setupMorten from './modules/Morten/Morten.js';
+import setupMorten from './modules/Morten/modules/Morten.js';
 import setupMax from './modules/Max/Max.js';
 import setupBenjamin from './modules/Benjamin/Benjamin.js';
 import setupMartin from './modules/Martin/Martin.js';
