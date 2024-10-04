@@ -1,5 +1,6 @@
 @use "../js/modules/Andreas/_andreas.scss";
 @use "./colors.scss" as Colors;
+@use "../js/modules/Max/_Max.scss";
 
 body {
   background-color: Colors.$main-color;
